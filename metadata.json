@@ -1,0 +1,12 @@
+{
+  "name": "Citrus",
+  "symbol": "Citrus",
+  "description": "The New Coin You Might Use",
+  "image": "https://i.imgur.com/aU1MQVA.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
